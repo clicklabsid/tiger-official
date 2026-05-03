@@ -12,7 +12,7 @@ const LINKS = [
       </svg>
     ),
     label: "Booking Contact",
-    href: "https://wa.me/6287801053952",
+    href: "https://wa.me/6287880891979",
     color: "#25D366",
   },
   {
